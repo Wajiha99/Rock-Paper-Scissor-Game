@@ -1,1 +1,1 @@
-<h1>I am creating a RockPaperScissors-Game using Html,Css and Javascript.</h1>
+<h1>Creating a RockPaperScissors-Game using Html,Css and Javascript.</h1>
